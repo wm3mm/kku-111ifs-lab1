@@ -14,4 +14,4 @@ The page contains one card with:
 4. Email and hobby
 
 ## Live Page
-The link will be added later.
+https://wm3mm.github.io/kku-111ifs-lab1/
